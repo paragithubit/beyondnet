@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 365948,
+      "title": "ODEON Cinemas Group: Unified Security Across 8 Countries and 280+ Cinemas",
+      "url": "https://aeye.supagrow.in/resources/odeon-cinemas-group-case-study",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/365948/iSense-Odeon-Bounemouth_ebff9558e57d20deb8f3a555b4c2165e.webp",
+      "imageAltText": "ODEON Cinemas Group case study"
+    },
+    {
+      "id": 366701,
+      "title": "Snappi: Scaling SOC Confidence as the Company Grows",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/366701/CT-Snappi_9b530bdc58c9b9f1943d1e0ea6f3c8d7.webp",
+      "imageAltText": "Snappi customer testimonial"
+    },
+    {
+      "id": 374754,
+      "title": "IFX Payments: Custom SIEM Deployment in Six Weeks",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/374754/Homepage-customer-img-IFX-Payments_9b530bdc58c9b9f1943d1e0ea6f3c8d7.webp",
+      "imageAltText": "IFX Payments case study"
+    },
+    {
+      "id": 353543,
+      "title": "State of California: Faster Onboarding for County Cybersecurity",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/353543/state-of-california_2025-10-09-171308_cfhl_9b530bdc58c9b9f1943d1e0ea6f3c8d7.webp",
+      "imageAltText": "State of California case study"
+    },
+    {
+      "id": 354109,
+      "title": "Shimmick: Modernizing Security Operations for Critical Infrastructure",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/354109/shimmick-logo-new_1faf456a1ff343e3423e6ad7b3a300c8.webp",
+      "imageAltText": "Shimmick case study"
+    },
+    {
+      "id": 353557,
+      "title": "TeamViewer: Protecting a Global Remote Connectivity Platform",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/353557/TeamViewer_1faf456a1ff343e3423e6ad7b3a300c8.webp",
+      "imageAltText": "TeamViewer case study"
+    },
+    {
+      "id": 354127,
+      "title": "Five Star Bank: Strengthening Financial Services Cyber Resilience",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/354127/five-star-bank-logo-new_1faf456a1ff343e3423e6ad7b3a300c8.webp",
+      "imageAltText": "Five Star Bank case study"
+    },
+    {
+      "id": 354649,
+      "title": "Allstate: Enhancing Third-Party and Enterprise Security",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/354649/allstate-insurance-logo-2_1faf456a1ff343e3423e6ad7b3a300c8.webp",
+      "imageAltText": "Allstate case study"
+    },
+    {
+      "id": 354483,
+      "title": "Element Fleet Management: Securing Fleet Operations at Scale",
+      "url": "https://aeye.supagrow.in/resources?page=1&type=case-studies",
+      "type": "Case Study",
+      "image": "/assets/imager/imagess3/Misc/354483/Element-Logo-768x202-1_1faf456a1ff343e3423e6ad7b3a300c8.webp",
+      "imageAltText": "Element Fleet Management case study"
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 9,
+      "per_page": 9,
+      "current_page": 1,
+      "total_pages": 1
+    }
+  }
+}

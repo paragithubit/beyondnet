@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "id": 376484,
+      "title": "AI Agents Are Forcing Us to Rethink Identity",
+      "url": "https://aeye.supagrow.in/blog/ai-agents-identity-cybersecurity",
+      "topic": "Company News",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_149cf39b285f4b7ceeceb877d3f2a5ea.webp",
+      "imageAltText": "AI agents and identity cybersecurity"
+    },
+    {
+      "id": 376001,
+      "title": "How AI Is Transforming the SOC",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Artificial Intelligence",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_af04d6d873b2b2746899ba33e6110e43.webp",
+      "imageAltText": "AI in the security operations center"
+    },
+    {
+      "id": 375502,
+      "title": "Third-Party Risk: What Changed in 2026",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Third-Party Risk Management",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_86d19927d33619e4940906f11e71c7d2.webp",
+      "imageAltText": "Third-party cyber risk management"
+    },
+    {
+      "id": 375001,
+      "title": "Threat Intelligence That Drives Action",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Threat Intelligence",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_d01a50b8b7100b03b4ef5467f2a9c41b.webp",
+      "imageAltText": "Threat intelligence operations"
+    },
+    {
+      "id": 374510,
+      "title": "MDR Playbook: Detect Faster, Respond Smarter",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Managed Detection and Response",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_164890a61c02187c704cb8d1518bc0c6.webp",
+      "imageAltText": "Managed detection and response"
+    },
+    {
+      "id": 374002,
+      "title": "Digital Risk Protection Beyond the Perimeter",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Digital Risk Protection",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_149cf39b285f4b7ceeceb877d3f2a5ea.webp",
+      "imageAltText": "Digital risk protection"
+    },
+    {
+      "id": 373501,
+      "title": "Microsoft Security: Lessons from the Front Line",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Microsoft",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_af04d6d873b2b2746899ba33e6110e43.webp",
+      "imageAltText": "Microsoft security"
+    },
+    {
+      "id": 373002,
+      "title": "Compliance Without Slowing the Business",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Risk and Compliance",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_86d19927d33619e4940906f11e71c7d2.webp",
+      "imageAltText": "Risk and compliance"
+    },
+    {
+      "id": 372501,
+      "title": "Splunk in the Modern SOC Stack",
+      "url": "https://aeye.supagrow.in/blog",
+      "topic": "Splunk",
+      "image": "/assets/imager/imagess3/Blogs/376484/BV_Card_AI-Agents-Identity_091426_01_d01a50b8b7100b03b4ef5467f2a9c41b.webp",
+      "imageAltText": "Splunk security analytics"
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 9,
+      "per_page": 9,
+      "current_page": 1,
+      "total_pages": 1
+    }
+  }
+}

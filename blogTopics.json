@@ -1,0 +1,23 @@
+{
+  "data": [
+    { "id": 1, "slug": "company-news", "title": "Company News" },
+    { "id": 2, "slug": "digital-risk-protection", "title": "Digital Risk Protection" },
+    { "id": 3, "slug": "insights", "title": "Industry Insights" },
+    { "id": 4, "slug": "managed-detection-and-response", "title": "Managed Detection and Response" },
+    { "id": 5, "slug": "microsoft", "title": "Microsoft" },
+    { "id": 6, "slug": "professional-services", "title": "Professional Services" },
+    { "id": 7, "slug": "risk-and-compliance", "title": "Risk and Compliance" },
+    { "id": 8, "slug": "splunk", "title": "Splunk" },
+    { "id": 9, "slug": "third-party-risk-management", "title": "Third-Party Risk Management" },
+    { "id": 10, "slug": "threat-intelligence", "title": "Threat Intelligence" },
+    { "id": 11, "slug": "artificial-intelligence", "title": "Artificial Intelligence" }
+  ],
+  "meta": {
+    "pagination": {
+      "total": 11,
+      "per_page": 50,
+      "current_page": 1,
+      "total_pages": 1
+    }
+  }
+}
